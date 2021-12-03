@@ -12,5 +12,14 @@ Helpful guidance for those who script and may not be aware of good programming p
 4. Use Version Control! Really! Use it!
 5. Comment your code
 6. Use sound programming practices around variable & function naming
-7. ...
+7. Pay attention to and read carefully any error messages
+8. Use good data management & reproducibility practices from the start
+9. x
+10. y
+11. z
+12. y
+13. x
+14. w
+15. v
+16. u
 
